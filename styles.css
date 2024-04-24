@@ -23,7 +23,6 @@ body {
 }
 @media (min-width: 1441px) {
   body {
-    height: 100vh;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr 1fr;
     grid-template-areas: "daniel daniel jonathan kira" "jeanette patrick patrick kira";
